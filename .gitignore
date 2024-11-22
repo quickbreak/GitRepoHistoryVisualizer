@@ -1,0 +1,6 @@
+archive/
+.idea/
+.venv/
+archive.zip
+README.pdf
+**__pycache__/
