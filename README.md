@@ -2,7 +2,7 @@
   Визуализатор истории коммитов гит-репозитория
 </h1>
 
-## Пример работы программы
+<h2 align="center">Пример работы программы</h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e9d17151-191b-468d-9938-e67f4785d72d">
 </div>
